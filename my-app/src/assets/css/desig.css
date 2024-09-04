@@ -1,0 +1,46 @@
+.logo{
+    height: 30px;
+}
+.container-fluid{
+    font-size: 15px;
+}
+.a,h1,h2,h3,h4,h5,h6,p,hr{
+    margin: 0px;
+}
+.box{
+    z-index: 999;
+    position: relative;
+    margin-top: -450px;
+
+}
+.pic{
+    height: 70%;
+    width: 70%;
+}
+.s{
+    text-decoration: none;
+}
+.h-7{
+   height: 7%;
+}
+.w-85{
+    height: 85%;
+}
+.logo1{
+     width: 70px;
+     height: 30px;
+}
+.logo2{
+    height: 20px;
+}
+.col-box{
+    min-width: 250px;
+}
+::-webkit-scrollbar{
+    height: 0;
+}
+.logo3{
+    height: 50px;
+}
+
+
